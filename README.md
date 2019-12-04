@@ -21,10 +21,13 @@ Interface of the game as shown below:
 ## The NeuroEvolution of Augmenting Topologies
 As documnented <a href="http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf">here</a>.
 
-### Inputs:
+## Inputs:
 + x location of player
 + x location of the rock
 + y location of the rock
 + width of the rock.
 
+## Results:
+The code develope successfully developed, reach 500 points after few generation. 
+<img src="https://github.com/HieuChiPhan/Game-Automatic-Learning-with-NEAT/blob/master/Capture%20AI.png" alt="None">
 
